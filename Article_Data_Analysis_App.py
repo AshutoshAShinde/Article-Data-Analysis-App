@@ -10,6 +10,7 @@ import pandas as pd
 import matplotlib.image as mpimg
 from nltk.corpus import stopwords
 import nltk
+nltk.download('punkt')
 
 import matplotlib.pyplot as plt
 import seaborn as sns
